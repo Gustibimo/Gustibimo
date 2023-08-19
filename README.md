@@ -1,1 +1,1 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustibimo&show_icons=true&theme=gruvbox)
+![](https://raw.githubusercontent.com/Gustibimo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
